@@ -1,0 +1,8 @@
+# Cached Python bytecode
+__pycache__/
+
+# HuggingFace API token
+/.hf_token
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
