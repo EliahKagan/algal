@@ -2,8 +2,11 @@
     "cSpell.words": [
         "bigscience",
         "conda",
+        "dtype",
         "huggingface",
         "ipykernel",
-        "ipywidgets"
+        "ipywidgets",
+        "linalg",
+        "numpy"
     ]
 }

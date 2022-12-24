@@ -8,4 +8,5 @@ dependencies:
   - huggingface_hub
   - ipykernel
   - ipywidgets
+  - numpy
   - requests
