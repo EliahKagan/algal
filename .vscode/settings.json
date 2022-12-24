@@ -7,6 +7,7 @@
         "ipykernel",
         "ipywidgets",
         "linalg",
-        "numpy"
+        "numpy",
+        "openai"
     ]
 }
