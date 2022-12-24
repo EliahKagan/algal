@@ -5,5 +5,7 @@ channels:
 
 dependencies:
   - python=3.11
+  - huggingface_hub
   - ipykernel
+  - ipywidgets
   - requests
