@@ -10,4 +10,7 @@ dependencies:
   - ipywidgets
   - numpy
   - openai
+  - pip
   - requests
+  - pip:
+    - tiktoken

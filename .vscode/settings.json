@@ -6,8 +6,12 @@
         "huggingface",
         "ipykernel",
         "ipywidgets",
+        "LIGHTGREEN",
+        "LIGHTMAGENTA",
         "linalg",
         "numpy",
-        "openai"
+        "openai",
+        "Squilldebrandt",
+        "tiktoken"
     ]
 }
