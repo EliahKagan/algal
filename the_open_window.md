@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: 0BSD -->
+
 `the_open_window.txt` is:
 
 ```text
