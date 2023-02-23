@@ -2,10 +2,10 @@
 __pycache__/
 
 # HuggingFace API token
-/.hf_token
+.hf_token
 
 # OpenAI API key
-/.openai_key
+.openai_key
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
