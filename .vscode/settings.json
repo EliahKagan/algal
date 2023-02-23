@@ -2,10 +2,15 @@
     "cSpell.words": [
         "bigscience",
         "bikeshed",
+        "Brabantio",
+        "buttled",
         "colorama",
         "conda",
         "dtype",
+        "electroencephalographically",
         "Eliah",
+        "Encyclopaedia",
+        "Framton",
         "gaurav",
         "huggingface",
         "ipykernel",
@@ -16,10 +21,20 @@
         "LIGHTMAGENTA",
         "linalg",
         "numpy",
+        "Nuttel",
         "openai",
         "pipenv",
+        "Sappleton",
+        "speciality",
+        "squee",
+        "squick",
         "Squilldebrandt",
         "tiktoken"
+    ],
+    "cSpell.ignoreWords": [
+        "Daemonica",
+        "dtunqhoepgfxvzcwlsajkmbiry",
+        "eberschrifvt"
     ],
     "notebook.output.textLineLimit": 1000
 }
