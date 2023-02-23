@@ -19,5 +19,6 @@
         "openai",
         "Squilldebrandt",
         "tiktoken"
-    ]
+    ],
+    "notebook.output.textLineLimit": 1000
 }
