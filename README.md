@@ -49,6 +49,19 @@ in the application. This is often separate from the `conda activate algal` and
 `pipenv shell` commands. In VS Code, you select this for a notebook near the
 upper right of the window.
 
+### Where it looks for API keys
+
+As written, the HuggingFace token and OpenAI API key are expected to be found
+in files called `.openai_key` and `.hf_token`, respectively. Make sure not to
+commit those files! They are included in `.gitignore`.
+
+You can make those files, or change the code accordingly to look elsewhere. If
+you supply your OpenAI API key as `OPENAI_API_KEY` environment variable, then
+the OpenAI Python library will find and use it automatically, and no
+key-related logic is needed in the code. You should probably not put your keys
+in the code itself, even if you’re not currently planning to commit the change,
+since this runs a high risk of accidentally committing them later.
+
 ## Models used
 
 ### Completion (text generation)
