@@ -31,6 +31,10 @@ used for text generation/completion in:
   [`huggingface-hub`
   library](https://huggingface.co/docs/huggingface_hub/index)
 
+For a somewhat similar approach to accessing BLOOM from a Jupyter notebook that
+is more user-friendly and versatile, see
+[complete](https://github.com/EliahKagan/complete).
+
 ### Embeddings
 
 #### Ada 2
@@ -46,6 +50,12 @@ for sentence embeddings in:
 
 That notebook also explores the token encoding used by that model, and shows
 some examples comparing it to the older encoding used by GPT-2 and GPT-3.
+
+For more on accessing OpenAI embeddings from Python—besides the official
+resource [openai-cookbook](https://github.com/openai/openai-cookbook) (which is
+the most important place to find examples)—see
+[bed](https://github.com/EliahKagan/bed) and
+[embed-encode](https://github.com/EliahKagan/embed-encode).
 
 #### FLAX Sentence Embeddings
 
