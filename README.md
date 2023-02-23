@@ -125,7 +125,8 @@ However, there are two inputs that are not due to me and that I wish to credit:
 ### “The Open Window”
 
 The short story “The Open Window” by Saki (H.H. Munro), which is in the public
-domain, is used, including with modification, as model input.
+domain, is used, both with and without intentional modification, as model
+input.
 
 See [`the_open_window.md`](the_open_window.md) for details.
 
