@@ -15,6 +15,40 @@ API](https://huggingface.co/inference-api). But one notebook,
 This repository is licensed [0BSD](https://spdx.org/licenses/0BSD.html). See
 [**`LICENSE`**](LICENSE).
 
+## Usage
+
+### Setup
+
+You can install dependencies with
+[`conda`](https://en.wikipedia.org/wiki/Conda_(package_manager)) or
+[`pipenv`](https://pipenv.pypa.io/en/latest/).
+
+#### conda
+
+```sh
+conda env create
+conda activate algal  # To use the conda environment.
+```
+
+#### pipenv
+
+```sh
+pipenv install
+pipenv shell  # To use the Python virtual environment.
+```
+
+### Running the notebooks
+
+You can open the notebooks in any application that supports viewing and running
+Jupyter notebooks. I suggest VS Code, which I used, but you could also use
+JupyterLab or other applications.
+
+Whatever you use, you should make sure the conda environment (if you used
+`conda`) or the Python virtual environment (if you used `pipenv`) is activated
+in the application. This is often separate from the `conda activate algal` and
+`pipenv shell` commands. In VS Code, you select this for a notebook near the
+upper right of the window.
+
 ## Models used
 
 ### Completion (text generation)

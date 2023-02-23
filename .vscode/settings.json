@@ -17,6 +17,7 @@
         "linalg",
         "numpy",
         "openai",
+        "pipenv",
         "Squilldebrandt",
         "tiktoken"
     ],
