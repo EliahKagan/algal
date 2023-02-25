@@ -52,7 +52,7 @@ upper right of the window.
 ### Where it looks for API keys
 
 As written, the HuggingFace token and OpenAI API key are expected to be found
-in files called `.openai_key` and `.hf_token`, respectively. Make sure not to
+in files called`.hf_token` and `.openai_key`, respectively. Make sure not to
 commit those files! They are included in `.gitignore`.
 
 You can make those files, or change the code accordingly to look elsewhere. If
@@ -89,7 +89,7 @@ is more user-friendly and versatile, see
 [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings/second-generation-models),
 OpenAI’s [second generation embedding
 model](https://openai.com/blog/new-and-improved-embedding-model/), which is
-suitable for small and large texts (up to 4000 tokens) as well as code, is used
+suitable for small and large texts (up to 8191 tokens) as well as code, is used
 for sentence embeddings in:
 
 - [`ada.ipynb`](ada.ipynb) - accessing it via the [OpenAI Python
