@@ -1,5 +1,8 @@
 <!-- SPDX-License-Identifier: 0BSD -->
 
+<!-- Tell markdownlint it's okay this file doesn't start with an <h1>. -->
+<!-- markdownlint-disable MD041 -->
+
 `the_open_window.txt` is:
 
 ```text
