@@ -52,7 +52,7 @@ upper right of the window.
 ### Where it looks for API keys
 
 As written, the HuggingFace token and OpenAI API key are expected to be found
-in files called`.hf_token` and `.openai_key`, respectively. Make sure not to
+in files called `.hf_token` and `.openai_key`, respectively. Make sure not to
 commit those files! They are included in `.gitignore`.
 
 You can make those files, or change the code accordingly to look elsewhere. If
