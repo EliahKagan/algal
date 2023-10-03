@@ -392,12 +392,12 @@
         },
         "huggingface-hub": {
             "hashes": [
-                "sha256:0d3df29932f334fead024afc7cb4cc5149d955238b8b5e42dcf9740d6995a349",
-                "sha256:608c7d4f3d368b326d1747f91523dbd1f692871e8e2e7a4750314a2dd8b63e14"
+                "sha256:40439632b211311f788964602bf8b0d9d6b7a2314fba4e8d67b2ce3ecea0e3fd",
+                "sha256:545eb3665f6ac587add946e73984148f2ea5c7877eac2e845549730570c1933a"
             ],
             "index": "pypi",
-            "markers": "python_full_version >= '3.7.0'",
-            "version": "==0.16.4"
+            "markers": "python_full_version >= '3.8.0'",
+            "version": "==0.17.3"
         },
         "idna": {
             "hashes": [
@@ -1054,7 +1054,6 @@
                 "sha256:7a7c7003b000adf9e7ca2a377c9688bbc54ed41b985789ed576570342a375cd2",
                 "sha256:b19e1a85d206b56d7df1d5e683df4a7725252a964e3993648dd0fb5a1c157564"
             ],
-            "index": "pypi",
             "markers": "python_version >= '3.7'",
             "version": "==2.0.6"
         },
